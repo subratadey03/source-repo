@@ -1,5 +1,5 @@
 node {
-  diameter: 200px;
+  diameter: 20px;
   color: #A5ABB6;
   border-color: #9AA1AC;
   border-width: 2px;
